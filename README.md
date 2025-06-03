@@ -35,9 +35,9 @@ The notebook explores and visualizes answers to the following:
 
 ---
 
-## 💻 Programming Language
+## 💻 Programming Language and libraries used 
 
-- **Python 3.x**
+- **Python 3.x and Matplotlib**
 
 ---
 
